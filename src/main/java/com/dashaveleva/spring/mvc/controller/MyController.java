@@ -21,7 +21,6 @@ public class MyController {
         List<Employee> list = employeeDAO.getAllEmployees();
         model.getAttribute("allEmps");
         return "all-employees";
-        //fjldj
     }
 
 
