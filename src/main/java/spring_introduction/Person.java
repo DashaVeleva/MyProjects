@@ -1,4 +1,4 @@
-package spring_introduction;
+package main.java.spring_introduction;
 
 public class Person {
     private Pet pet;
